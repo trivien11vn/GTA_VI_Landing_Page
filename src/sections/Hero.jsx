@@ -59,6 +59,7 @@ const Hero = () => {
         <img src="/images/big-hero-text.svg" className="overlay-logo" />
       </div>
 
+
       <ComingSoon />
     </section>
   )
